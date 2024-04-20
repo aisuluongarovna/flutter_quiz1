@@ -1,16 +1,4 @@
 # flutter_quiz1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+WEATHER FORECAST
+![weather forecast](https://github.com/aisuluongarovna/flutter_quiz1/assets/144228244/04ff3108-6ff0-4e20-a713-6f4e646c2378)
+A weather forecast provides a brief overview of expected weather conditions, including temperature, precipitation, wind speed, and humidity for a specific location and time period. It helps people plan their activities and make informed decisions about outdoor plans.
